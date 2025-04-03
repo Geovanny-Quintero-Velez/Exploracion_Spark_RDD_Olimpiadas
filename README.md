@@ -28,3 +28,6 @@ El proyecto fue construido y ejecutado en un entorno local
 ## Contribución
 Si deseas contribuir, puedes hacer un fork del repositorio y enviar un pull request con mejoras o nuevas funcionalidades.
 
+# Fuente de datos
+Los datos y el codigo se inspiran en el curso de platzi "Curso de fundamentos de Spark para big data"
+
